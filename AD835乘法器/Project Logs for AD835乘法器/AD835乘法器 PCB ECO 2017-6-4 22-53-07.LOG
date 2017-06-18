@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=IN1-3
+Removed Pin From Net: NetName=GND Pin=IN2-3
+Change Component Footprint: Designator=C1 Old Footprint=CD-2.2mm New Footprint=7343C-TYPE_D
+Change Component Footprint: Designator=C2 Old Footprint=CD-2.2mm New Footprint=7343C-TYPE_D

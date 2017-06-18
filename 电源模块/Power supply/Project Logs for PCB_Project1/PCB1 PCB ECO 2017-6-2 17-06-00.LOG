@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC11_2 Pin=H2-2
+Removed Pin From Net: NetName=NetC26_2 Pin=H5-2
+Change Component Footprint: Designator=H2 Old Footprint=KF128-5.08-2P New Footprint=KF128-5.08-3P
+Change Component Footprint: Designator=H5 Old Footprint=KF128-5.08-2P New Footprint=KF128-5.08-3P
+Change Component Comment : Designator=H2 Old Comment=KF128-5.08-2P New Comment=KF128-5.08-3P
+Change Component Comment : Designator=H5 Old Comment=KF128-5.08-2P New Comment=KF128-5.08-3P
+Added Pin To Net: NetName=GND1 Pin=C1-2
+Added Pin To Net: NetName=GND1 Pin=C5-1
+Added Pin To Net: NetName=GND1 Pin=C23-1
+Added Pin To Net: NetName=GND1 Pin=C25-2
+Added Pin To Net: NetName=GND3 Pin=C38-2
+Added Pin To Net: NetName=GND3 Pin=C42-1
+Added Pin To Net: NetName=GND3 Pin=C44-2
+Added Pin To Net: NetName=GND3 Pin=C50-1
+Added Pin To Net: NetName=GND3 Pin=C53-1
+Added Pin To Net: NetName=GND3 Pin=C54-2
+Added Pin To Net: NetName=GND1 Pin=H2-2
+Added Pin To Net: NetName=NetC11_2 Pin=H2-3
+Added Pin To Net: NetName=GND3 Pin=H5-2
+Added Pin To Net: NetName=NetC26_2 Pin=H5-3
+Added Pin To Net: NetName=GND1 Pin=L4-1
+Added Pin To Net: NetName=GND3 Pin=L14-1
+Added Pin To Net: NetName=GND1 Pin=R4-2
+Added Pin To Net: NetName=GND1 Pin=R7-2
+Added Pin To Net: NetName=GND3 Pin=R14-2
+Added Pin To Net: NetName=GND3 Pin=R16-2
+Change Net Name : Old Net Name=GND3 New Net Name=GND2

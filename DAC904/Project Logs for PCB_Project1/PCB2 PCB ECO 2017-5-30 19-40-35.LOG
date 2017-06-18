@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AGND Pin=P1-3
+Removed Pin From Net: NetName=-5V Pin=P1-4
+Change Component Footprint: Designator=P1 Old Footprint=VH3.96-4P New Footprint=XH2.54-3p
+Change Component Comment : Designator=P1 Old Comment=VH3.96-4A New Comment=XH2.54-3p
+Added Pin To Net: NetName=-5V Pin=P1-3

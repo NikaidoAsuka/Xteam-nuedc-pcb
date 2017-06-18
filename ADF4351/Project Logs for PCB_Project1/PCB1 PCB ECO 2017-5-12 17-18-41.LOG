@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=REFIN Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R11-2
+Change Component Comment : Designator=R11 Old Comment=100R New Comment=30R
+Change Component Designator: OldDesignator=DIFF_OUT B+ NewDesignator=Vo_S2
+Change Component Designator: OldDesignator=DIFF_OUT B- NewDesignator=Vo_S3
+Change Component Designator: OldDesignator=OUTPUT A NewDesignator=Vo_S1
+Added Pin To Net: NetName=REFIN Pin=R11-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R11-2
+Added Net: Name=NetC8_1

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetL6_1 Pin=S1-1
+Removed Pin From Net: NetName=NetC12_2 Pin=S1-2
+Removed Pin From Net: NetName=NetC12_1 Pin=S1-5
+Removed Pin From Net: NetName=NetL3_1 Pin=S1-6
+Removed Pin From Net: NetName=NetC27_1 Pin=S2-2
+Removed Pin From Net: NetName=NetL9_1 Pin=S2-3
+Removed Pin From Net: NetName=NetL10_1 Pin=S2-4
+Removed Pin From Net: NetName=NetC27_2 Pin=S2-5
+Change Component Footprint: Designator=C44 Old Footprint=CD-5mm New Footprint=CD-2.2mm
+Change Component Footprint: Designator=C53 Old Footprint=CD-5mm New Footprint=CD-2.2mm
+Added Pin To Net: NetName=NetL3_1 Pin=S1-1
+Added Pin To Net: NetName=NetC12_1 Pin=S1-2
+Added Pin To Net: NetName=NetC12_2 Pin=S1-5
+Added Pin To Net: NetName=NetL6_1 Pin=S1-6
+Added Pin To Net: NetName=NetC27_2 Pin=S2-2
+Added Pin To Net: NetName=NetL10_1 Pin=S2-3
+Added Pin To Net: NetName=NetL9_1 Pin=S2-4
+Added Pin To Net: NetName=NetC27_1 Pin=S2-5

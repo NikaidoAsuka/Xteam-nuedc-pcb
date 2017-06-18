@@ -1,0 +1,59 @@
+Added Component: Designator=C1(CD-2.2mm)
+Added Component: Designator=C2(CD-2.2mm)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Added Component: Designator=IN1(SMA-2)
+Added Component: Designator=IN2(SMA-2)
+Added Component: Designator=OUT(SMA-2)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(电位器)
+Added Component: Designator=R5(0805)
+Added Component: Designator=U1(R_8)
+Added Component: Designator=U2(XH2.54-3p)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=IN1-2
+Added Pin To Net: NetName=GND Pin=IN2-2
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Pin To Net: NetName=NetC1_1 Pin=U2-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C4-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=U2-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetIN1_1 Pin=IN1-1
+Added Pin To Net: NetName=NetIN1_1 Pin=R1-1
+Added Pin To Net: NetName=NetIN1_1 Pin=U1-8
+Added Net: Name=NetIN1_1
+Added Pin To Net: NetName=NetIN2_1 Pin=IN2-1
+Added Pin To Net: NetName=NetIN2_1 Pin=R2-2
+Added Pin To Net: NetName=NetIN2_1 Pin=U1-1
+Added Net: Name=NetIN2_1
+Added Pin To Net: NetName=NetOUT_1 Pin=OUT-1
+Added Pin To Net: NetName=NetOUT_1 Pin=R5-2
+Added Net: Name=NetOUT_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-3
+Added Pin To Net: NetName=NetR3_1 Pin=U1-4
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R5-1
+Added Pin To Net: NetName=NetR3_2 Pin=U1-5
+Added Net: Name=NetR3_2
+Added Class: Name=AD835乘法器
+Added Room: Name=AD835乘法器

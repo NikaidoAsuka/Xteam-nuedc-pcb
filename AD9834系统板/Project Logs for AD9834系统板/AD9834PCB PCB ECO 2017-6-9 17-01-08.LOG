@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FSYNC Pin=H-10
+Removed Pin From Net: NetName=SDATA Pin=H-14
+Added Pin To Net: NetName=SDATA Pin=H-10
+Added Pin To Net: NetName=FSYNC Pin=H-14
+Added Room: Name=AD9834‘≠¿ÌÕº

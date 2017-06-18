@@ -1,0 +1,91 @@
+Added Component: Designator=D1(0805_s)
+Added Component: Designator=D2(0805_s)
+Added Component: Designator=D4(SMA/DO-214AC)
+Added Component: Designator=I1(SM-22)
+Added Component: Designator=I2(SM-22)
+Added Component: Designator=P1(DC3-14P)
+Added Component: Designator=P2(VH3.96-4P)
+Added Component: Designator=Vo_S1(SMA-LYING)
+Added Component: Designator=Vo_S2(SMA-LYING)
+Added Component: Designator=X1(SMD4_7050)
+Added Pin To Net: NetName=3.3V Pin=X1-1
+Added Pin To Net: NetName=3.3V Pin=X1-4
+Added Net: Name=3.3V
+Added Net: Name=AGND
+Added Pin To Net: NetName=CE D Pin=P1-9
+Added Net: Name=CE D
+Added Net: Name=CE
+Added Pin To Net: NetName=CLK D Pin=P1-2
+Added Net: Name=CLK D
+Added Net: Name=CLK
+Added Net: Name=CP
+Added Pin To Net: NetName=DATA D Pin=P1-4
+Added Net: Name=DATA D
+Added Net: Name=DATA
+Added Net: Name=DGND
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=I1-4
+Added Pin To Net: NetName=GND Pin=I2-4
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LD D Pin=P1-7
+Added Net: Name=LD D
+Added Net: Name=LD
+Added Pin To Net: NetName=LE D Pin=P1-10
+Added Net: Name=LE D
+Added Net: Name=LE
+Added Pin To Net: NetName=MUXOUT D Pin=P1-3
+Added Net: Name=MUXOUT D
+Added Net: Name=MUXOUT
+Added Pin To Net: NetName=NetC8_2 Pin=X1-3
+Added Net: Name=NetC8_2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC24_1 Pin=D2-2
+Added Pin To Net: NetName=NetC24_1 Pin=D4-2
+Added Pin To Net: NetName=NetC24_1 Pin=P2-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC28_1 Pin=I1-3
+Added Net: Name=NetC28_1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC29_1 Pin=I2-3
+Added Net: Name=NetC29_1
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Net: Name=NetD2_1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR22_2 Pin=Vo_S1-0
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=Vo_S2-0
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=PDBRF D Pin=P1-6
+Added Net: Name=PDBRF D
+Added Net: Name=PDBRF
+Added Net: Name=PGND
+Added Net: Name=REFIN
+Added Pin To Net: NetName=RFOUTA_N Pin=I1-5
+Added Net: Name=RFOUTA_N
+Added Pin To Net: NetName=RFOUTA_P Pin=I1-1
+Added Net: Name=RFOUTA_P
+Added Pin To Net: NetName=RFOUTB_N Pin=I2-5
+Added Net: Name=RFOUTB_N
+Added Pin To Net: NetName=RFOUTB_P Pin=I2-1
+Added Net: Name=RFOUTB_P
+Added Net: Name=RSET
+Added Net: Name=SW
+Added Net: Name=TEMP
+Added Net: Name=VCOM
+Added Net: Name=VREF
+Added Net: Name=VTUNE
+Added Differential Pair: Name=RFOUTA
+Added Differential Pair: Name=RFOUTB

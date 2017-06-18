@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SDATA Pin=SPI-1
+Removed Pin From Net: NetName=SCLK Pin=SPI-2
+Removed Pin From Net: NetName=FSYNC Pin=SPI-3
+Removed Member From Class: ClassName=AD9834原理图 Member=H1
+Removed Member From Class: ClassName=AD9834原理图 Member=SPI
+Added Component: Designator=H(IDC-14)
+Added Pin To Net: NetName=DGND Pin=H-1
+Added Pin To Net: NetName=DGND Pin=H-3
+Added Pin To Net: NetName=DGND Pin=H-5
+Added Pin To Net: NetName=DGND Pin=H-7
+Added Pin To Net: NetName=DGND Pin=H-9
+Added Pin To Net: NetName=FSYNC Pin=H-10
+Added Pin To Net: NetName=DGND Pin=H-11
+Added Pin To Net: NetName=SCLK Pin=H-12
+Added Pin To Net: NetName=DGND Pin=H-13
+Added Pin To Net: NetName=SDATA Pin=H-14
+Added Pin To Net: NetName=NetH_2 Pin=H-2
+Added Pin To Net: NetName=NetH_2 Pin=R11-1
+Added Net: Name=NetH_2
+Added Pin To Net: NetName=NetH_4 Pin=H-4
+Added Pin To Net: NetName=NetH_4 Pin=R9-1
+Added Net: Name=NetH_4
+Added Pin To Net: NetName=NetH_6 Pin=H-6
+Added Pin To Net: NetName=NetH_6 Pin=R16-1
+Added Net: Name=NetH_6
+Added Pin To Net: NetName=NetH_8 Pin=H-8
+Added Pin To Net: NetName=NetH_8 Pin=R14-1
+Added Net: Name=NetH_8
+Added Member To Class: ClassName=AD9834原理图 Member=Component H Header 7X2
+Added Room: Name=AD9834原理图

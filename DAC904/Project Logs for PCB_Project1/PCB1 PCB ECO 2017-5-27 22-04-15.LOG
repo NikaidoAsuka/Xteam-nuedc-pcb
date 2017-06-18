@@ -1,0 +1,5 @@
+Added Component: Designator=U2(SOT-223)
+Added Pin To Net: NetName=AGND Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-3

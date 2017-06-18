@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D1-18
+Added Component: Designator=S2(DPST-4)
+Added Pin To Net: NetName=NetD1_19 Pin=D1-18
+Added Pin To Net: NetName=5V Pin=D1-19
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=NetD1_19 Pin=S2-2
+Change Net Name : Old Net Name=NetD1_19 New Net Name=NetD1_18
+Added Class: Name=Sheet
+Added Room: Name=Sheet

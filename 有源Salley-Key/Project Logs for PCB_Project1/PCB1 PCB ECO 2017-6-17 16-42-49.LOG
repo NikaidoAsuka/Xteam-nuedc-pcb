@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetC16_2 Pin=C1-2
+Added Pin To Net: NetName=NetC17_2 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C16-1
+Added Pin To Net: NetName=NetC3_2 Pin=C17-1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC3_1

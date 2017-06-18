@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=AVDD Pin=AVDD AGND-1
+Removed Pin From Net: NetName=DVDD Pin=C6-2
+Removed Pin From Net: NetName=DVDD Pin=C7-2
+Removed Pin From Net: NetName=AVDD Pin=C8-2
+Removed Pin From Net: NetName=AVDD Pin=C9-2
+Removed Pin From Net: NetName=DVDD Pin=DVDD DGND-1
+Removed Pin From Net: NetName=AGND Pin=IOUT-3
+Removed Pin From Net: NetName=AGND Pin=IOUTB-3
+Removed Pin From Net: NetName=AGND Pin=SBOUT-3
+Removed Pin From Net: NetName=AGND Pin=SBOUT-4
+Removed Pin From Net: NetName=AGND Pin=SBOUT-5
+Change Component Designator: OldDesignator=5V DGND NewDesignator=5V
+Change Component Designator: OldDesignator=AVDD AGND NewDesignator=AVDD
+Change Component Designator: OldDesignator=DVDD DGND NewDesignator=DVDD
+Added Component: Designator=LK2(HDR3X1_A)
+Added Component: Designator=LK4(HDR3X1_A)
+Added Pin To Net: NetName=DVDD Pin=LK2-2
+Added Pin To Net: NetName=VCC3.3V Pin=LK2-3
+Added Pin To Net: NetName=AVDD Pin=LK4-2
+Added Pin To Net: NetName=VCC3.3V Pin=LK4-3
+Added Pin To Net: NetName=AVDD-OUT Pin=AVDD-1
+Added Pin To Net: NetName=AVDD-OUT Pin=C8-2
+Added Pin To Net: NetName=AVDD-OUT Pin=C9-2
+Added Pin To Net: NetName=AVDD-OUT Pin=LK4-1
+Added Net: Name=AVDD-OUT
+Added Pin To Net: NetName=DVDD-OUT Pin=C6-2
+Added Pin To Net: NetName=DVDD-OUT Pin=C7-2
+Added Pin To Net: NetName=DVDD-OUT Pin=DVDD-1
+Added Pin To Net: NetName=DVDD-OUT Pin=LK2-1
+Added Net: Name=DVDD-OUT
+Added Member To Class: ClassName=AD9834原理图 Member=Component LK2 Header 3
+Added Member To Class: ClassName=AD9834原理图 Member=Component LK4 Header 3
+Added Member To Class: ClassName=AD9834原理图 Member=Component R6 RES
+Added Room: Name=AD9834原理图

@@ -1,0 +1,13 @@
+Added Component: Designator=C7(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=C12(0805)
+Added Component: Designator=C14(0805)
+Added Pin To Net: NetName=AGND Pin=C7-1
+Added Pin To Net: NetName=1.8VA Pin=C7-2
+Added Pin To Net: NetName=DGND Pin=C11-1
+Added Pin To Net: NetName=1.8VD Pin=C11-2
+Added Pin To Net: NetName=DGND Pin=C12-1
+Added Pin To Net: NetName=1.8VD Pin=C12-2
+Added Pin To Net: NetName=DGND Pin=C14-1
+Added Pin To Net: NetName=3.3VD Pin=C14-2
+Added Pin To Net: NetName=NetR64_1 Pin=U12-3

@@ -1,0 +1,6 @@
+Added Component: Designator=U2(SOT-223)
+Added Pin To Net: NetName=DGND Pin=U2-1
+Added Pin To Net: NetName=VCC3.3V Pin=U2-2
+Added Pin To Net: NetName=Net5V_1 Pin=U2-3
+Added Pin To Net: NetName=VCC3.3V Pin=U2-4
+Added Member To Class: ClassName=AD9834‘≠¿ÌÕº Member=Component U2 AMS1117-3.3

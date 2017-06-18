@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=AGND Pin=R57-1
+Removed Pin From Net: NetName=AGND Pin=R66-1
+Removed Pin From Net: NetName=CH2 IOUTN Pin=U7-3
+Removed Pin From Net: NetName=CH2 IOUT Pin=U7-5
+Removed Pin From Net: NetName=CH3 IOUTN Pin=U8-3
+Removed Pin From Net: NetName=CH3 IOUT Pin=U8-5
+Removed Pin From Net: NetName=NetR55_1 Pin=U11-2
+Removed Pin From Net: NetName=NetR56_1 Pin=U11-3
+Removed Pin From Net: NetName=NetR65_1 Pin=U12-2
+Removed Pin From Net: NetName=NetR64_1 Pin=U12-3
+Added Component: Designator=C8(0805)
+Added Pin To Net: NetName=AGND Pin=C8-1
+Added Pin To Net: NetName=1.8VA Pin=C8-2
+Added Pin To Net: NetName=AGND Pin=R67-1
+Added Pin To Net: NetName=CH2 IOUT Pin=U7-3
+Added Pin To Net: NetName=CH2 IOUTN Pin=U7-5
+Added Pin To Net: NetName=CH3 IOUT Pin=U8-3
+Added Pin To Net: NetName=CH3 IOUTN Pin=U8-5
+Added Pin To Net: NetName=NetR56_1 Pin=U11-2
+Added Pin To Net: NetName=NetR55_1 Pin=U11-3
+Added Pin To Net: NetName=NetR64_1 Pin=U12-2
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=R59-1
+Added Pin To Net: NetName=NetR57_1 Pin=R60-2
+Added Net: Name=NetR57_1
+Added Pin To Net: NetName=NetR66_1 Pin=R66-1
+Added Pin To Net: NetName=NetR66_1 Pin=R68-1
+Added Pin To Net: NetName=NetR66_1 Pin=R69-2
+Added Net: Name=NetR66_1

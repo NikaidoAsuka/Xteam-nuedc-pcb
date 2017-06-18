@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=V- Pin=P1-1
+Removed Pin From Net: NetName=V+ Pin=P1-3
+Change Component Footprint: Designator=P1 Old Footprint=XH2.54-3p New Footprint=VH3.96-4P
+Change Component Comment : Designator=P1 Old Comment=电源接入 New Comment=VH3.96-4A 电源接入
+Added Component: Designator=C8(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=C12(0805)
+Added Component: Designator=C14(0805)
+Added Pin To Net: NetName=AGND Pin=C8-1
+Added Pin To Net: NetName=1.8VA Pin=C8-2
+Added Pin To Net: NetName=DGND Pin=C11-1
+Added Pin To Net: NetName=1.8VD Pin=C11-2
+Added Pin To Net: NetName=DGND Pin=C12-1
+Added Pin To Net: NetName=1.8VD Pin=C12-2
+Added Pin To Net: NetName=DGND Pin=C14-1
+Added Pin To Net: NetName=3.3VD Pin=C14-2
+Added Pin To Net: NetName=V+ Pin=P1-1
+Added Pin To Net: NetName=AGND Pin=P1-3
+Added Pin To Net: NetName=V- Pin=P1-4

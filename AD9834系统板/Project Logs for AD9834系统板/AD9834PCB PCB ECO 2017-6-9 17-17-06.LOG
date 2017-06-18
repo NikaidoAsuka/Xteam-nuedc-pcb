@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AGND Pin=IOUT-3
+Removed Pin From Net: NetName=AGND Pin=IOUTB-3
+Change Component Footprint: Designator=IOUT Old Footprint=SMA-2 New Footprint=SMA-KE
+Change Component Footprint: Designator=IOUTB Old Footprint=SMA-2 New Footprint=SMA-KE
+Added Room: Name=AD9834‘≠¿ÌÕº

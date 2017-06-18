@@ -1,0 +1,6 @@
+Added Component: Designator=C3(7343C-TYPE_D)
+Added Component: Designator=C4(7343C-TYPE_D)
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=AGND Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=C4-2

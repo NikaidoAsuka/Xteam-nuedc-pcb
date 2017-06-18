@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[AD835³Ë·¨Æ÷.GTL]
+   Generated File[AD835³Ë·¨Æ÷.RUL]
+   Generated File[AD835³Ë·¨Æ÷.EXTREP]
+   Generated File[AD835³Ë·¨Æ÷.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:13:56 On 2017/6/11

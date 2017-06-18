@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=S2 Old Footprint=AN66 New Footprint=DPST-4
+Change Component Comment: Designator=S2 Old Comment=6x6¿ª¹Ø New Comment=SW-DPST
+Change Pin Designator/Name:  Old Designator=D1-2 Old Name=WR1 New Designator =ILE New Name=19
+Change Pin Designator/Name:  Old Designator=S1-9 Old Name=B8 New Designator =B1 New Name=16
+Change Pin Designator/Name:  Old Designator=S1-10 Old Name=B7 New Designator =B2 New Name=15
+Change Pin Designator/Name:  Old Designator=S1-11 Old Name=B6 New Designator =B3 New Name=14
+Change Pin Designator/Name:  Old Designator=S1-12 Old Name=B5 New Designator =B4 New Name=13
+Change Pin Designator/Name:  Old Designator=S1-13 Old Name=B4 New Designator =B5 New Name=12
+Change Pin Designator/Name:  Old Designator=S1-14 Old Name=B3 New Designator =B6 New Name=11
+Change Pin Designator/Name:  Old Designator=S1-15 Old Name=B2 New Designator =B7 New Name=10
+Change Pin Designator/Name:  Old Designator=S1-16 Old Name=B1 New Designator =B8 New Name=9
