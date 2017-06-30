@@ -1,0 +1,5 @@
+Added Component: Designator=U6(SOT-223)
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=+3.3V Pin=U6-2
+Added Pin To Net: NetName=+3.3V Pin=U6-2
+Added Pin To Net: NetName=+5V Pin=U6-3

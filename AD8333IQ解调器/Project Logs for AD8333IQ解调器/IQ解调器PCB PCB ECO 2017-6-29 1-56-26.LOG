@@ -1,0 +1,12 @@
+Added Component: Designator=R90(0603R)
+Added Component: Designator=R91(0603R)
+Added Pin To Net: NetName=GND Pin=R90-1
+Added Pin To Net: NetName=GND Pin=R91-1
+Added Pin To Net: NetName=Net+5v_2 Pin=+5v-2
+Added Pin To Net: NetName=Net+5v_2 Pin=R90-2
+Added Net: Name=Net+5v_2
+Added Pin To Net: NetName=Net-5v_1 Pin=-5v-1
+Added Pin To Net: NetName=Net-5v_1 Pin=R91-2
+Added Net: Name=Net-5v_1
+Added Member To Class: ClassName=IQ解调器原理图 Member=Component R90 Res1
+Added Member To Class: ClassName=IQ解调器原理图 Member=Component R91 Res1

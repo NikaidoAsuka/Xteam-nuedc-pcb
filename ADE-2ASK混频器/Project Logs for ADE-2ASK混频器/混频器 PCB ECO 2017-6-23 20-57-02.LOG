@@ -1,0 +1,32 @@
+Added Component: Designator=ADE-2ASK(PL-052)
+Added Component: Designator=IF(SMA-2)
+Added Component: Designator=LO(SMA-2)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=RF(SMA-2)
+Added Pin To Net: NetName=GND Pin=ADE-2ASK-1
+Added Pin To Net: NetName=GND Pin=ADE-2ASK-1
+Added Pin To Net: NetName=GND Pin=ADE-2ASK-1
+Added Pin To Net: NetName=GND Pin=IF-2
+Added Pin To Net: NetName=GND Pin=LO-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=RF-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetADE-2ASK_2 Pin=ADE-2ASK-2
+Added Pin To Net: NetName=NetADE-2ASK_2 Pin=R3-2
+Added Net: Name=NetADE-2ASK_2
+Added Pin To Net: NetName=NetADE-2ASK_3 Pin=ADE-2ASK-3
+Added Pin To Net: NetName=NetADE-2ASK_3 Pin=R1-1
+Added Pin To Net: NetName=NetADE-2ASK_3 Pin=RF-1
+Added Net: Name=NetADE-2ASK_3
+Added Pin To Net: NetName=NetADE-2ASK_4 Pin=ADE-2ASK-4
+Added Pin To Net: NetName=NetADE-2ASK_4 Pin=LO-1
+Added Pin To Net: NetName=NetADE-2ASK_4 Pin=R2-1
+Added Net: Name=NetADE-2ASK_4
+Added Pin To Net: NetName=NetIF_1 Pin=IF-1
+Added Pin To Net: NetName=NetIF_1 Pin=R3-1
+Added Net: Name=NetIF_1
+Added Class: Name=»ìÆµÆ÷
+Added Room: Name=»ìÆµÆ÷

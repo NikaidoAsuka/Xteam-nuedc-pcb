@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=GND Pin=U4-9
+Change Component Footprint: Designator=U2 Old Footprint=SDA08C New Footprint=LC-SOIC-8_150mil
+Change Component Footprint: Designator=U3 Old Footprint=SDA08C New Footprint=LC-SOIC-8_150mil
+Change Component Footprint: Designator=U4 Old Footprint=SDA08C New Footprint=LC-SOIC-8_150mil
+Added Room: Name=IQ解调器原理图

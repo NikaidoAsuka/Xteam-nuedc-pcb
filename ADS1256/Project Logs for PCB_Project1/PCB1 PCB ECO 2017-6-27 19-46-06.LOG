@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=-2.5V REF Pin=U4-1
+Removed Pin From Net: NetName=NetR1_1 Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Change Component Footprint: Designator=U4 Old Footprint=TI-D8_M New Footprint=TI-D8_N
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=NetR1_1 Pin=U4-6
+Added Pin To Net: NetName=-2.5V REF Pin=U4-7

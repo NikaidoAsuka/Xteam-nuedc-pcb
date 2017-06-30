@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=RFOUTB_P Pin=C29-1
+Removed Pin From Net: NetName=RFOUTB_N Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=DIFF A--1
+Removed Pin From Net: NetName=GND Pin=DIFF A--1
+Removed Pin From Net: NetName=GND Pin=DIFF A--1
+Removed Pin From Net: NetName=GND Pin=DIFF A--1
+Removed Pin From Net: NetName=RFOUTA_N Pin=I1-1
+Removed Pin From Net: NetName=RFOUTA_P Pin=I1-5
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U1-27
+Removed Pin From Net: NetName=GND Pin=U1-31
+Change Component Comment : Designator=R12 Old Comment=1K New Comment=23.0k
+Change Component Comment : Designator=C10 Old Comment=100pf New Comment=1.33nf
+Change Component Comment : Designator=C11 Old Comment=100pf New Comment=2.91nF
+Change Component Comment : Designator=C9 Old Comment=100pf New Comment=39.6nf
+Change Component Comment : Designator=R15 Old Comment=360R New Comment=11.3K
+Change Component Designator: OldDesignator=DIFF A+ NewDesignator=Vo_S2
+Change Component Designator: OldDesignator=OUT A NewDesignator=Vo_S1
+Added Component: Designator=C22(0805)
+Added Component: Designator=I2(SM-22)
+Added Component: Designator=R18(0805)
+Added Component: Designator=R19(0805)
+Added Component: Designator=R20(0805)
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=3.3V Pin=C22-2
+Added Pin To Net: NetName=RFOUTA_P Pin=I1-1
+Added Pin To Net: NetName=RFOUTA_N Pin=I1-5
+Added Pin To Net: NetName=RFOUTB_P Pin=I2-1
+Added Pin To Net: NetName=GND Pin=I2-4
+Added Pin To Net: NetName=RFOUTB_N Pin=I2-5
+Added Pin To Net: NetName=AGND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=DGND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=PGND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=PGND Pin=U1-8
+Added Pin To Net: NetName=AGND Pin=U1-9
+Added Pin To Net: NetName=AGND Pin=U1-11
+Added Pin To Net: NetName=AGND Pin=U1-18
+Added Pin To Net: NetName=AGND Pin=U1-21
+Added Pin To Net: NetName=DGND Pin=U1-27
+Added Pin To Net: NetName=DGND Pin=U1-31
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=I2-3
+Added Net: Name=NetC29_1

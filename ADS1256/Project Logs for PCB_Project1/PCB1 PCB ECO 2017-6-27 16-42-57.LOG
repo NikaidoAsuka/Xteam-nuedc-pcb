@@ -1,0 +1,7 @@
+Added Component: Designator=C18(3216C-TYPE_A)
+Added Component: Designator=C19(3216C-TYPE_A)
+Added Pin To Net: NetName=+5V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=-5V Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Class: Name=Sheet1
